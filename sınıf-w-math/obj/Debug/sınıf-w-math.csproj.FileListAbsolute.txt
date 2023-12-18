@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\sınıf-w-math\sınıf-w-math\bin\Debug\sınıf-w-math.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\sınıf-w-math\sınıf-w-math\bin\Debug\sınıf-w-math.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\sınıf-w-math\sınıf-w-math\bin\Debug\sınıf-w-math.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\sınıf-w-math\sınıf-w-math\obj\Debug\sınıf-w-math.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\sınıf-w-math\sınıf-w-math\obj\Debug\sınıf-w-math.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\sınıf-w-math\sınıf-w-math\obj\Debug\sınıf_w_math.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\sınıf-w-math\sınıf-w-math\obj\Debug\sınıf_w_math.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\sınıf-w-math\sınıf-w-math\obj\Debug\sınıf-w-math.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\sınıf-w-math\sınıf-w-math\obj\Debug\sınıf-w-math.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\sınıf-w-math\sınıf-w-math\obj\Debug\sınıf-w-math.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\sınıf-w-math\sınıf-w-math\obj\Debug\sınıf-w-math.pdb
